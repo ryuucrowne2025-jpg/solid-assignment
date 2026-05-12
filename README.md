@@ -58,6 +58,9 @@ Berisi kode awal yang masih melanggar prinsip SOLID.
 Refactor code using SOLID principles
 
 Berisi hasil refactoring dan penerapan prinsip SOLID.
+
+---
+
 # Author
-Nama: Ryuu
+Nama: Fajri Ahmad Siregar  
 Mata Kuliah: Desain Perangkat Lunak
